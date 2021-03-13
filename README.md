@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install
+
+These packages must be installed:
+### `npm install bootstrap`
+### `npm install react-router-dom`
+### `npm install react-datepicker`
+### `npm install axios`
+
 ## Available Scripts
 
 In the backend directory, you can run:
